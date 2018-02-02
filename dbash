@@ -1,0 +1,2 @@
+#!/bin/bash
+docker container exec -it $(fcon $1) bash
